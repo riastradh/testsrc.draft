@@ -1,6 +1,6 @@
 this is a beautful sand castle
 hello world
-foo bar baz quux zot
+foo bar baz quux zoot
 mumble frotz
 quagga eland caribou elk wapiti
 quagga
@@ -9,4 +9,4 @@ fnord sink sank sunk sonk senk synk swnk
 goodnight world!
 another one
 one commit two commit
-Live from Ottawa!
+Live from Ottawa, Ontario!
